@@ -3,9 +3,9 @@ R package to analyze high-throughput time-series imaging data.
 
 To run:
 
-install.packages("devtools")\cr
-devtools::install_github("maiasmith/ExAKHTLI_package")\cr
-library("ExAKHTLI")\cr
-ExAKHTLI::runExample()\cr
+install.packages("devtools");
+devtools::install_github("maiasmith/ExAKHTLI_package");
+library("ExAKHTLI");
+ExAKHTLI::runExample()
 
 Note that sample files are available in the sample_data folder.
