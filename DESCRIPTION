@@ -1,0 +1,21 @@
+Package: ExAKHTLI
+Title: ExAKHTLI
+Version: 0.0.0
+Authors@R: person("Maia", "Smith", email = "maiaannesmith@gmail.com", role = c("aut", "cre"))
+Description: R package to analyze high-throughput time-series imaging data.
+Depends:
+    R (>= 3.2.2)
+Imports:
+	shiny (>= 0.13.2),
+	rJava (>= 0.9-8),
+	XLConnect (>= 0.2-11),
+	ggplot2 (>= 2.1.0),
+	plyr (>= 1.8.3),
+	reshape (>= 0.8.5),
+	pracma (>= 1.8.8),
+	car (>= 2.1-2),
+	Rmisc (>= 1.5),
+	dplyr (>= 0.4.3)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1
